@@ -3,7 +3,7 @@ from telethon.errors import FloodWaitError
 import asyncio
 
 api_id = 27463772
-api_hash = 'YOUR_API_HASH'
+api_hash = '173b628effb7d799253071c6bb3ebf62'
 
 SOURCE_ID = -1003786409645
 TARGET_ID = -1003973218247
